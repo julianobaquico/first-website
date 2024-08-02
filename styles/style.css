@@ -31,7 +31,7 @@ body {
 }
 
 .apresentacao {
-    padding: 1% 0% 1% 0%;
+    padding: 1% 5% 1% 5%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -80,16 +80,16 @@ body {
     flex-direction: column;
     gap: 15px;
     margin: 10px;
-    padding-top: 2%;
+    padding-top: 5%;
     align-items: center;
 }
 
 .apresentacao__links__link {
     display: flex; 
     justify-content: center;
-    gap: 5px;
+    gap: 1px;
     border: 2px solid #22D4FD;
-    width: 400px;
+    width: 250px;
     text-align: center;
     border-radius: 10px;
     font-size: 24px;
