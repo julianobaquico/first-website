@@ -151,4 +151,16 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__coteudo__titulo {
+        text-align: center;
+        font-size: 1.25rem;
+
+    }
+
+    .apresentacao__coteudo__subtitulo {
+        text-align: center;
+        font-size: 1.25rem;
+
+    }
 }
